@@ -37,6 +37,14 @@ O código realiza a conversão da leitura analógica (0 a 1023) para graus Celsi
 
 ---
 
+## 🔗 Simulação no Tinkercad
+
+O projeto está disponível para visualização e testes virtuais. Acesse o esquema completo e inicie a simulação no link abaixo:
+
+🚀 [Visualizar Projeto no Tinkercad](https://www.tinkercad.com/things/9sh1NE9T1O2-projeto-introducao-a-engenharia)
+
+---
+
 ## 📝 Como usar
 1. Clone este repositório.
 2. Abra o arquivo `.ino` na Arduino IDE ou importe no Tinkercad.
